@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('../img/family.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #c56a6a;
+}
+
+h1 {
+    color: #736a3b;
+    background-color: rgba(255, 255, 255, 0.698);
+    border-radius: 10px;
+    text-align: center;
+
+
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: rgba(255, 255, 255, 0.698);
+    border-radius: 10px;
+}
+
+.card-title {
+    color: #343a40;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.form-check-label {
+    font-weight: bold;
+}
+
+.result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #e9ecef;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    font-weight: bold;
+}
